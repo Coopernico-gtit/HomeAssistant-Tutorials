@@ -1,0 +1,25 @@
+O Raspberry Pi4 é a solução ideal para instalar o HA, já que um sistema destes vai ficar ligado 24h por dia, processadores ARM são famosos pelo seu baixo consumo energético, dai não recomendamos usar plataforma intel.
+
+	Microcomputador Raspberry Pi 4 Model B 2GB - Raspberry Pi SC0193(5c)
+	https://mauser.pt/catalog/product_info.php?cPath=1667_2620_1672&products_id=096-7401
+
+
+	Fonte de alimentação USB-C (230VAC->5.1VDC) 3.0A 15.3W - branco - oficial para Raspberry Pi 4 - Raspberry Pi
+	https://mauser.pt/catalog/product_info.php?cPath=1667_2620_2960&products_id=035-3400
+
+
+
+Outro fator tentar utilizar equipamentos com arrefecimento passivo, ventoinhas tendem a avariar depois de algum tempo alem de ruído e consumo energético. 
+
+	Caixa em alumínio resistente para Raspberry Pi 4 - JOY-IT
+	https://mauser.pt/catalog/product_info.php?cPath=1667_2620_2622_2949&products_id=096-7615
+
+
+
+Para começar um simples cartão SD serve perfeitamente brincar alguns meses com o home assistant, mas para uma instalação permanente é altamente recomendável a utilização de um disco SSD. 
+
+	Disco SSD SATAIII 2.5'' 120GB (550/500MB/s) - BlueRay SDM8SI120A
+	https://mauser.pt/catalog/product_info.php?products_id=047-2760
+
+	Cabo adaptador USB-A 3.1 para SATA 7+15Pin (SSD/HDD 2.5'') - ACT - AC1510
+	https://mauser.pt/catalog/product_info.php?products_id=047-3930
