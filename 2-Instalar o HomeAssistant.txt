@@ -1,0 +1,21 @@
+1- Para instalar software no RaspberryPI é necessario termos instalado no nosso computador o "Raspberry Pi Imager".
+   Seguir este link:
+   https://www.raspberrypi.com/software/
+
+
+   Descarregar o respectivo "Raspberry Pi Imager" para o nosso computador (Windows, MacOS ou Linux)
+
+2- Arrancar o "Raspberry Pi Imager", selecionar o tipo de dispositivo onde vamos instalar, que no nosso caso sera um Raspberry Pi4.
+
+De seguida escolher o OS (sistema operativo) que vamos usar. Aqui escolhemos a opção "Other specific-purpose OS", que irá abrir um sub-menu, escolher "Home assistants and home automation". Isto vai revelar o próximo nível de menu, em que aparece o "Home Assistant". Escolhemos o Home Assistant OS XX.X (RPi 4/400)
+
+Agora colocamos o nosso cartão SD no leitor do computador, e selecionamos no "Storage" esse cartão. Finalmente um "Next", confirmar que o cartão será apagado, e esperar que acabe de copiar.
+
+
+3- Colocar o cartão SD no Pi4, ligar o mesmo com um cabo de rede a LAN e ligar a ficha UsbC da fonte ao Pi4.
+
+4- O Pi4 irá usar o DHCP do router da LAN para obter um endereço IP, num browser podemos aceder ao nosso novo home assistant estando ligado a rede da casa e colocar este endereço: http://homeassistant.local:8123/
+
+
+
+   
